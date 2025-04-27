@@ -40,4 +40,4 @@ Got a performance trick, debugging tip, or JavaScript concept that’s helped yo
 - **Scalable apps**: Keeps performance tight as your app grows.
 - **Better UX**: Users love responsive apps, especially on mobile.
 
-🌟 If you find this helpful, please **leave a star** on the repo to help others discover it! Explore more dev tips at [Developer’s Nightmare](https://github.com/yourusername/developersnightmare).
+🌟 If you find this helpful, please **leave a star** on the repo to help others discover it! Explore more dev tips at [Developer’s Nightmare](https://github.com/jha-niraj/developersnightmare).
